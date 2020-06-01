@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9d5c4e612b5a23ddb5549fdcbc5b9d66",
+    "revision": "496c2880d5243b9854b3778c36833e81",
     "url": "/noteFE/index.html"
   },
   {
-    "revision": "62450e9bac8551500f75",
+    "revision": "71f13f93553eb162825d",
     "url": "/noteFE/static/css/main.66d80578.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/noteFE/static/js/2.7ca85e7f.chunk.js"
   },
   {
-    "revision": "62450e9bac8551500f75",
-    "url": "/noteFE/static/js/main.f2ddc8e2.chunk.js"
+    "revision": "71f13f93553eb162825d",
+    "url": "/noteFE/static/js/main.316068fb.chunk.js"
   },
   {
     "revision": "66a45b07486484a12151",
