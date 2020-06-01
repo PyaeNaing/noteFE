@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/noteFE/static/css/main.66d80578.chunk.css",
-    "main.js": "/noteFE/static/js/main.93ee103a.chunk.js",
-    "main.js.map": "/noteFE/static/js/main.93ee103a.chunk.js.map",
+    "main.js": "/noteFE/static/js/main.e824a153.chunk.js",
+    "main.js.map": "/noteFE/static/js/main.e824a153.chunk.js.map",
     "runtime-main.js": "/noteFE/static/js/runtime-main.7c2e62b9.js",
     "runtime-main.js.map": "/noteFE/static/js/runtime-main.7c2e62b9.js.map",
-    "static/js/2.9fd6997a.chunk.js": "/noteFE/static/js/2.9fd6997a.chunk.js",
-    "static/js/2.9fd6997a.chunk.js.map": "/noteFE/static/js/2.9fd6997a.chunk.js.map",
+    "static/js/2.7ca85e7f.chunk.js": "/noteFE/static/js/2.7ca85e7f.chunk.js",
+    "static/js/2.7ca85e7f.chunk.js.map": "/noteFE/static/js/2.7ca85e7f.chunk.js.map",
     "index.html": "/noteFE/index.html",
-    "precache-manifest.e3ba3779272fe4a2f7edb5ec6617a717.js": "/noteFE/precache-manifest.e3ba3779272fe4a2f7edb5ec6617a717.js",
+    "precache-manifest.984179a738c13bdcd265d7e657d7c2d9.js": "/noteFE/precache-manifest.984179a738c13bdcd265d7e657d7c2d9.js",
     "service-worker.js": "/noteFE/service-worker.js",
     "static/css/main.66d80578.chunk.css.map": "/noteFE/static/css/main.66d80578.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.7c2e62b9.js",
-    "static/js/2.9fd6997a.chunk.js",
+    "static/js/2.7ca85e7f.chunk.js",
     "static/css/main.66d80578.chunk.css",
-    "static/js/main.93ee103a.chunk.js"
+    "static/js/main.e824a153.chunk.js"
   ]
 }
